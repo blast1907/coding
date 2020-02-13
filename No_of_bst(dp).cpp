@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-void no_of_bst(int n)
+int no_of_bst(int n)
 {
     int a[n+1];
     a[0]=1;
